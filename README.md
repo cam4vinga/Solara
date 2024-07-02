@@ -9,7 +9,7 @@ Features
 
     10,000+ Community: Join a thriving community of Roblox enthusiasts leveraging Solara.
     52% UNC Support: Get unparalleled support with Solara Executor.
-    Free Level 3 Executor: Enjoy the advanced features of Solara Executor at no cost.
+    Free Level 7 Executor: Enjoy the advanced features of Solara Executor at no cost.
 
 Overview
 
